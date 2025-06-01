@@ -131,7 +131,7 @@ https://github.com/user-attachments/assets/2e19afec-ad88-48d7-806b-1900de7924ee
 
 - Universidade: **Universidade Braz Cubas**
 - Curso: **Ciência da Computação**
-- Semestre: 2º 
+- Semestre: 3º 
 - Período: Manhã
 - Professora orientadora: **Dra. Andréa Ono Sakai**
 - Evento: **Mostra de Tecnologia 1º Semestre de 2025**
